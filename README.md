@@ -13,3 +13,8 @@ I'm based in Gothenburg, Sweden and I focus on creating usser-friendly and seaml
 ## What am I currently working on?
 
 I'm currently working on a fullstack mobile app in Expo (React Native). I wrote the backend myself in GraphQL and I'm currently putting finishing touches on its functions. Next stop is making the app run and look pretty!
+
+## My GitHub Stats
+
+![kemorsky's Stats](https://github-readme-stats.vercel.app/api?username=kemorsky&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![kemorsky's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kemorsky&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
