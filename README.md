@@ -1,6 +1,8 @@
 ## Hello there
 
-I'm Kamil, a Frontend Developer • ADHD and coffee fueled tech enthusiast.
+I'm Kamil
+
+Frontend Developer • ADHD and coffee fueled tech enthusiast.
 
 ## Who am I?
 
