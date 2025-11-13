@@ -1,8 +1,6 @@
 ## Hello there
 
-I'm Kamil.
-
-Frontend Developer • ADHD and coffee fueled tech enthusiast
+I'm Kamil, a Frontend Developer • ADHD and coffee fueled tech enthusiast.
 
 ## Who am I?
 
@@ -13,6 +11,13 @@ I'm based in Gothenburg, Sweden and I focus on creating usser-friendly and seaml
 ## What am I currently working on?
 
 I'm currently working on a fullstack mobile app in Expo (React Native). I wrote the backend myself in GraphQL and I'm currently putting finishing touches on its functions. Next stop is making the app run and look pretty!
+
+## Tech Stack
+
+- React, TypeScript, Tailwind, CSS
+- React Native, Next.js
+- Node.js, GraphQL
+- Figma
 
 ## My GitHub Stats
 
