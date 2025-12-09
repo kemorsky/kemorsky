@@ -19,7 +19,9 @@ I'm currently working on a fullstack mobile app in Expo (React Native). I wrote 
 - React, TypeScript, Tailwind, CSS
 - React Native, Next.js
 - Node.js, GraphQL
+- TanStack Query
 - Figma
+- Vitest, JEST
 
 ## My GitHub Stats
 
